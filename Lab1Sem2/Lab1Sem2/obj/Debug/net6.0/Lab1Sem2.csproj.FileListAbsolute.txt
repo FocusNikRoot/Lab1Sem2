@@ -1,0 +1,15 @@
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\bin\Debug\net6.0\Lab1Sem2.exe
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\bin\Debug\net6.0\Lab1Sem2.deps.json
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\bin\Debug\net6.0\Lab1Sem2.runtimeconfig.json
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\bin\Debug\net6.0\Lab1Sem2.dll
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\bin\Debug\net6.0\Lab1Sem2.pdb
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\obj\Debug\net6.0\Lab1Sem2.csproj.AssemblyReference.cache
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\obj\Debug\net6.0\Lab1Sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\obj\Debug\net6.0\Lab1Sem2.AssemblyInfoInputs.cache
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\obj\Debug\net6.0\Lab1Sem2.AssemblyInfo.cs
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\obj\Debug\net6.0\Lab1Sem2.csproj.CoreCompileInputs.cache
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\obj\Debug\net6.0\Lab1Sem2.dll
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\obj\Debug\net6.0\refint\Lab1Sem2.dll
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\obj\Debug\net6.0\Lab1Sem2.pdb
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\obj\Debug\net6.0\Lab1Sem2.genruntimeconfig.cache
+C:\Users\Kpacka\source\repos\Lab1Sem2\Lab1Sem2\obj\Debug\net6.0\ref\Lab1Sem2.dll
